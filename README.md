@@ -19,10 +19,9 @@ This project is an Excel-based Personal Expense Tracker designed to record, anal
 ## 📁 File Included
 - Personal_Expense_Tracker.xlsx
 
-## 📈 Dashboard Preview
-(Add screenshots here)
 
 ## 🧠 Learnings
 - Structured data handling in Excel
 - Real-world data analysis workflow
 - Building dynamic and scalable reports
+
